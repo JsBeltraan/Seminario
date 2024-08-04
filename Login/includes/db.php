@@ -1,5 +1,5 @@
 <?php
-$serverName = "DESKTOP-0P1B82L\\SQLEXPRESS"; // Cambia esto a tu nombre de servidor
+$serverName = "DESKTOP-0P1B82L\\SQLEXPRESS";
 $database = "Escuela";
 
 try {
